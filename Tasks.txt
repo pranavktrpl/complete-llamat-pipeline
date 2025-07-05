@@ -1,0 +1,10 @@
+add multi-turn chat extraction in call_llamat.py:
+Right now it is single step only. That means you can not pass any assistant call in the Messages[] Dictionary yet.
+    reply = full_text.split("<|im_end|>")[2].split("assistant", 1)[-1].strip()
+    reply = full_text.split("<|im_end|>")[4].split("assistant", 1)[-1].strip()
+Keep jumping by two indices for each assistant call
+
+Add device name handling, and device memory display too.
+
+In split_sentences:
+Use the papers .txt path instead of the whole string as input. This is to save memory.
