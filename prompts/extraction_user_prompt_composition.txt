@@ -1,0 +1,3 @@
+Now extract compositions from this PASSAGE:
+
+```{{passage}}```

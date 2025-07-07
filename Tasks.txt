@@ -8,3 +8,7 @@ Add device name handling, and device memory display too.
 
 In split_sentences:
 Use the papers .txt path instead of the whole string as input. This is to save memory.
+
+Create a fresh new clean conda env, and requirements.txt
+
+Set-up Loggers and implement the whole verbosity thing properly, when there's time

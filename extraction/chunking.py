@@ -17,7 +17,7 @@ import json
 import os
 import re
 from typing import List
-from split_sentences import split_sentences
+from .split_sentences import split_sentences
 
 
 def split_into_sections(text: str) -> List[str]:
@@ -36,7 +36,8 @@ def chunk_section(section_text: str, max_words: int) -> List[str]:
     in the middle of a sentence.
     """
     # Use the sci-spacy model by default (change if you only have std spaCy).
-    sentences = split_sentences(section_text, model="sci-spacy")
+    # sentences = split_sentences(section_text, model="sci-spacy")
+    sentences = split_sentences(section_text, model="std-spacy")
 
     chunks: List[str] = []
     current_chunk_sentences: List[str] = []

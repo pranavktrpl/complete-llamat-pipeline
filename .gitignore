@@ -1,0 +1,5 @@
+/local_models/llamat-2-chat
+/utils/__pycache__
+/utils/rawPaperProcessing/__pycache__
+/extraction/__pycache__
+.DS_Store
