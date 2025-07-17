@@ -39,7 +39,7 @@ class Config:
     """Configuration for the extraction pipeline."""
     
     # Chunking parameters
-    CHUNK_SIZE = 500  # Maximum words per chunk
+    CHUNK_SIZE = 700  # Maximum words per chunk
     SENTENCE_MODEL = "sci-spacy"  # Model for sentence splitting
     
     # LLM parameters

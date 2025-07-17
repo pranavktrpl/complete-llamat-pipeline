@@ -1,0 +1,30 @@
+{
+  "num_tables": 2,
+  "extraction_timestamp": null,
+  "tables": [
+    {
+      "table_id": 1,
+      "doi": "10.1016/j.ssi.2008.10.011",
+      "caption": "Activation energies and P(O2), P(H2), and P(H2O) dependence of the equivalent circuit elements for the Sr0.94Ti0.9Nb0.1O3 cone electrode",
+      "footer": {
+        "NA": "The data in brackets are the regression coefficient that show the uncertainty of the linearity in the Arrhenius plot and log-log plots. The value should be as close to unity as possible for a good fit."
+      },
+      "csv_file": "table_1.csv",
+      "num_rows": 9,
+      "num_cols": 13,
+      "composition_table": false
+    },
+    {
+      "table_id": 2,
+      "doi": "10.1016/j.ssi.2008.10.011",
+      "caption": "Activation energies and P(O2) and P(H2) dependence, at constant water partial pressure, of the equivalent circuit elements for the Sr0.94Ti0.9Nb0.1O3/YSZ composite symmetrical cell",
+      "footer": {
+        "NA": "The two rightmost columns are the data for the Gerischer elements, shown in Eq. (2). The data in brackets are the regression coefficient that shows the uncertainty of the linearity in the Arrhenius plot and log-log plots. The value should be as close to unity as possible for a good fit."
+      },
+      "csv_file": "table_2.csv",
+      "num_rows": 7,
+      "num_cols": 17,
+      "composition_table": false
+    }
+  ]
+}

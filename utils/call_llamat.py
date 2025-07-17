@@ -70,8 +70,11 @@ class LlamaTPrompter:
         inputs = self.tokenizer(prompt, return_tensors="pt").to(self.device)
         input_length = inputs.input_ids.shape[1]
 
+        # Get the actual model (handle DataParallel case)
+        model_to_use = self.model.module if hasattr(self.model, 'module') else self.model
+
         # Generate text
-        outputs = self.model.generate(
+        outputs = model_to_use.generate(
             **inputs,
             max_new_tokens=max_new_tokens,
             temperature=temperature,

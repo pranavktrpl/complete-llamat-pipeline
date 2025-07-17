@@ -1,0 +1,11 @@
+### PAPER
+{{PAPER_TEXT_CONTEXT}}
+
+### QUERY
+{{QUERY}}         
+
+### CANDIDATE_COMPOSITIONS
+{{CANDIDATE_COMPOSITIONS}}
+
+### TASK
+From the CANDIDATE_COMPOSITIONS list, return the single entry that the PAPER links to the QUERY property, following the rules in the system prompt.  Remember: output only that entry, or “unknown” if no clear match.

@@ -26,8 +26,8 @@ from utils.call_llamat import (
     LlamaTCompletionRequest,
 )
 
-SYSTEM_PROMPT_PATH   = "prompts/extraction_system_prompt_composition.txt"
-USER_PROMPT_PATH   = "prompts/extraction_user_prompt_composition.txt"
+SYSTEM_PROMPT_PATH   = "prompts/extraction/system_prompt_composition.txt"
+USER_PROMPT_PATH   = "prompts/extraction/user_prompt_composition.txt"
 CHUNKS_PATH   = "checkpoints/chunks.json"
 OUT_PATH      = "checkpoints/composition_outputs.json"
 MAX_TOKENS    = 128          # generation length
@@ -40,7 +40,6 @@ METADATA_OUT = "checkpoints/composition_metadata.json"
 def load_system_prompt(SYSTEM_PROMPT_PATH) -> str:
     """
     Read the full prompt from disk **and remove** the trailing
-    'Now extract compositions …' part so that it lives in the user message.
     """
     with open(SYSTEM_PROMPT_PATH, "r", encoding="utf-8") as f:
         raw = f.read().rstrip()
