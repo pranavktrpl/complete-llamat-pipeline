@@ -473,18 +473,18 @@ The current pipeline represents a significant evolution from earlier approaches:
 
 ### In Development 🔄
 - 🔄 Batch processing optimizations for large datasets
+- 🔄 Increasing runtime speeds
 - 🔄 Advanced quality assessment metrics
-- 🔄 Cross-paper property validation
 - 🔄 Enhanced table structure recognition
 
 ### Planned Enhancements 📋
-- 📋 Multi-model LLM support (GPT, Claude, etc.)
+- 📋 Multiple property handling independent of Matskraft inputs
 - 📋 Real-time processing API
 - 📋 Web interface for interactive processing
+- 📋 Knowledge graph construction and querying
+- 📋 Multi-model LLM support (GPT, Claude, etc.)
 - 📋 Integration with materials databases (Materials Project, AFLOW)
 - 📋 Advanced confidence calibration
-- 📋 Property prediction using learned patterns
-- 📋 Knowledge graph construction and querying
 
 ---
 
