@@ -2,16 +2,25 @@
 
 ## 🎯 Project Overview
 
-The **Complete LLaMAT Pipeline** is an end-to-end system for extracting material compositions from scientific research papers and linking them to material properties. The pipeline processes research papers (in XML format) through multiple stages to identify and extract chemical compositions, formulas, and material names using Large Language Models (LLMs), then intelligently links these compositions to their reported properties.
+The **Complete LLaMAT Pipeline** is a sophisticated **multi-agentic AI system** that orchestrates specialized agents to extract material compositions from scientific research papers and intelligently link them to material properties. This autonomous pipeline deploys multiple coordinated AI agents, each with distinct expertise, to collaboratively process research papers through intelligent workflow orchestration using Large Language Models (LLMs).
 
-### Key Capabilities
-- **Automated Text Extraction**: Extracts structured text from research paper XML files  
-- **Intelligent Chunking**: Splits papers into semantic sections with sentence-aware chunking
-- **LLM-Powered Extraction**: Uses local LLaMAT models to identify material compositions
-- **Property-Composition Linking**: Links extracted compositions to their reported material properties
-- **Enhanced Table Processing**: ML-powered table extraction with domain-specific optimization
-- **Structured Output Processing**: Generates both simple and detailed structured results
-- **Flexible Architecture**: Modular design supporting different LLM backends
+### Multi-Agent Architecture
+- **🔍 Text Extraction Agent**: Autonomously parses and structures content from research paper XML files
+- **🧠 Semantic Chunking Agent**: Intelligently segments papers using scientific text understanding
+- **⚗️ Composition Mining Agent**: Specialized LLaMAT-powered agent for identifying chemical compositions
+- **🔗 Property Linking Agent**: Expert agent that contextually matches compositions to material properties  
+- **📊 Table Intelligence Agent**: ML-powered agent with domain-specific table understanding
+- **📝 Reasoning Agent**: Advanced agent that provides evidence-based confidence scoring and explanations
+- **🎯 Orchestration Controller**: Coordinates multi-agent workflows and cross-agent communication
+
+### Intelligent Capabilities
+- **Autonomous Workflow Orchestration**: Self-managing pipeline with intelligent agent coordination
+- **Context-Aware Processing**: Agents share contextual understanding across processing stages
+- **Adaptive Decision Making**: Dynamic routing and processing based on content characteristics
+- **Multi-Modal Intelligence**: Coordinated text, table, and structure analysis agents
+- **Confidence-Driven Outputs**: Reasoning agents provide reliability assessments with evidence
+- **Domain-Adaptive Learning**: Agents adapt processing strategies based on materials science domains
+- **Collaborative Problem Solving**: Multiple agents work together to resolve complex extraction challenges
 
 ## 🏗️ System Architecture
 
