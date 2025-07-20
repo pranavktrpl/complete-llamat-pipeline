@@ -28,13 +28,17 @@ from utils.call_llamat import (
     LlamaTCompletionRequest,
 )
 
-SYSTEM_PROMPT_PATH = "prompts/linking/system_prompt.txt"
-USER_PROMPT_PATH = "prompts/linking/user_prompt.txt"
+# SYSTEM_PROMPT_PATH = "prompts/linking/system_prompt.txt"
+# USER_PROMPT_PATH = "prompts/linking/user_prompt.txt"
+#New prompt templates
+SYSTEM_PROMPT_PATH = "prompts/linking/system_reasoned_prompt.txt"
+USER_PROMPT_PATH = "prompts/linking/user_reasoning_prompt.txt"
 COMPOSITIONS_PATH = "output/S0167273808006176/compositions.json"
 CHUNKS_PATH   = "checkpoints/chunks.json"
 QUERY_PATH    = "checkpoints/queries.json"
 OUT_PATH = "checkpoints/linking_results_raw.json"
-MAX_TOKENS = 64           # shorter output for linking
+# MAX_TOKENS = 64           # shorter output for linking
+MAX_TOKENS = 256           # longer output for reasoning-backed linking
 TEMPERATURE = 0.0         # deterministic output
 SAVE_METADATA = False     # set to True to dump per-query metadata
 

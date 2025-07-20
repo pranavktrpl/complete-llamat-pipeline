@@ -3,1830 +3,1830 @@
     "query_idx": 0,
     "chunk_idx": 0,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 1,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 2,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 3,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 4,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 5,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 6,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 7,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "13"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 8,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 9,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 10,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 11,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 12,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 13,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 14,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 15,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 16,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 17,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 18,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 19,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 20,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 21,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 22,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 23,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 24,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 25,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 26,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 27,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 28,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 29,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 30,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 31,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 32,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 33,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 34,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 35,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 36,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 37,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 38,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 39,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 40,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 41,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 42,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 43,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 44,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 45,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 46,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 47,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 48,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 49,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 50,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 51,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 52,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 53,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 54,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 55,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 56,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 57,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 58,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 59,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 0,
     "chunk_idx": 60,
     "query": "Activation energy : 0.67 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 0,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 1,
     "chunk_idx": 1,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 2,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"Nb-doped SrTiO3\", \"reasoning\": \"Exact value match with explicit composition-property statement\"},"
   },
   {
     "query_idx": 1,
     "chunk_idx": 3,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 4,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 5,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 6,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 7,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "13"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 8,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 9,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"exact composition from candidate list\", \"reasoning\": \"exact value match with explicit composition-property statement\"}, {\"composition\":"
   },
   {
     "query_idx": 1,
     "chunk_idx": 10,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 11,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 12,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 13,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 14,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 15,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 16,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 17,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 18,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 19,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 20,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 21,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 22,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 23,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 24,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 25,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 26,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 27,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 28,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 29,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 30,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 31,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "1. Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 32,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 33,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 34,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 35,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 36,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 37,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 38,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 39,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 40,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 41,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 42,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 43,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 44,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 45,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 46,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 47,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 48,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 49,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 50,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 51,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 52,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 53,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 54,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 55,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 56,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 57,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 58,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 59,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 1,
     "chunk_idx": 60,
     "query": "Activation energy : 1.12 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 0,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 2"
   },
   {
     "query_idx": 2,
     "chunk_idx": 1,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 2"
   },
   {
     "query_idx": 2,
     "chunk_idx": 2,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"Nb-doped SrTiO3\", \"reasoning\": \"Exact value match with explicit composition-property statement\"},"
   },
   {
     "query_idx": 2,
     "chunk_idx": 3,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 2"
   },
   {
     "query_idx": 2,
     "chunk_idx": 4,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 5,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 6,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 7,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "13"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 8,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 9,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"exact composition from candidate list\", \"reasoning\": \"exact value match with explicit composition-property statement\"}, {\"composition\":"
   },
   {
     "query_idx": 2,
     "chunk_idx": 10,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 11,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 12,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 13,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 14,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 15,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 16,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 17,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 18,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 19,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 20,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 21,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 22,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 23,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 2"
   },
   {
     "query_idx": 2,
     "chunk_idx": 24,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 25,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 26,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 27,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 28,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 29,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 30,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 31,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 32,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 33,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 34,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 35,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 36,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 37,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 38,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 39,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 40,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 41,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 42,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 43,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 44,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 45,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 46,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 47,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 48,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 49,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 50,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 51,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 52,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 53,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 54,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 55,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 56,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 57,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 58,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 59,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 2,
     "chunk_idx": 60,
     "query": "Activation energy : 2.02 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 0,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 1,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 2,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"Nb-doped SrTiO3\", \"reasoning\": \"Exact value match with explicit composition-property statement\"},"
   },
   {
     "query_idx": 3,
     "chunk_idx": 3,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 4,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 5,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 6,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 7,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "13"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 8,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 9,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"exact composition from candidate list\", \"reasoning\": \"exact value match with explicit composition-property statement\"}, {\"composition\":"
   },
   {
     "query_idx": 3,
     "chunk_idx": 10,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 11,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 12,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 13,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 14,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 15,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 16,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 17,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 18,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 19,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 20,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 21,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 22,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 23,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 24,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 25,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 26,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 27,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 28,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 29,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 30,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 31,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "1. Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 32,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 33,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 34,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 35,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 36,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 37,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 38,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 39,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 40,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 41,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 42,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 43,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 44,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 45,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 46,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 47,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 48,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 49,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 50,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 51,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 52,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 53,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 54,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 55,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 56,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 57,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 58,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 3,
     "chunk_idx": 59,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 3,
     "chunk_idx": 60,
     "query": "Activation energy : 1.71 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 0,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 1,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 2,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"Nb-doped SrTiO3\", \"reasoning\": \"Exact value match with explicit composition-property statement\"},"
   },
   {
     "query_idx": 4,
     "chunk_idx": 3,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 4,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 5,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 6,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 7,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "13"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 8,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 9,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"exact composition from candidate list\", \"reasoning\": \"exact value match with explicit composition-property statement\"}, {\"composition\":"
   },
   {
     "query_idx": 4,
     "chunk_idx": 10,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 11,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 12,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 13,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 14,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 15,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 16,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 17,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 18,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 19,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 20,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 21,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 22,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 23,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 24,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 25,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 26,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 27,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 28,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 29,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 30,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 31,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "1. Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 32,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 33,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 34,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 35,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 36,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 37,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 38,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 39,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 40,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 41,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 42,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 43,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 44,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 45,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 46,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 47,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 48,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 49,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 50,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 51,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "1. Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 52,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 53,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 54,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 55,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 56,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 57,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "Sr0.94Ti0.9Nb0.1O3"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 58,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 1"
   },
   {
     "query_idx": 4,
     "chunk_idx": 59,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   },
   {
     "query_idx": 4,
     "chunk_idx": 60,
     "query": "Activation energy : 1.64 eV",
-    "raw_output": "12"
+    "raw_output": "[{\"composition\": \"Sr0.94Ti0.9Nb0.1O3\", \"confidence\": \"high\", \"evidence\": \"activation energy of Sr0.94Ti0.9Nb0.1O3 was measured to be 0"
   }
 ]

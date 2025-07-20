@@ -1,0 +1,16 @@
+### PAPER CONTEXT
+{{PAPER_TEXT_CONTEXT}}
+
+### PROPERTY QUERY
+{{QUERY}}
+
+### CANDIDATE COMPOSITIONS
+{{CANDIDATE_COMPOSITIONS}}
+
+### TASK
+Analyze the PAPER CONTEXT to find which CANDIDATE COMPOSITION is linked to the PROPERTY QUERY. Search for:
+1. Explicit statements linking composition to property
+2. Tables or figures showing composition-property data
+3. Measurements or calculations for specific compositions
+
+Return your analysis in the required JSON format with composition, confidence, evidence, and reasoning fields.

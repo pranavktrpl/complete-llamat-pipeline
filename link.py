@@ -18,6 +18,7 @@ from linking.linking_util import (
     load_compositions,
     link_compositions_to_properties
 )
+from linking.process_outputs import process_linking_results_enhanced
 
 # =============================================================================
 # CONFIGURATION
@@ -27,16 +28,20 @@ class Config:
     """Configuration for the linking pipeline."""
     
     # LLM parameters
-    MAX_TOKENS = 64  # Maximum tokens for LLM generation (shorter for linking)
+    # MAX_TOKENS = 64  # Maximum tokens for LLM generation (shorter for linking)
+    MAX_TOKENS = 256  # Increase for structures-reasoning backed output
     TEMPERATURE = 0.0  # Temperature for LLM (0.0 = deterministic)
     
     # Metadata parameters
-    SAVE_METADATA = False  # Whether to save metadata for each query
+    SAVE_METADATA = True  # Whether to save metadata for each query
     VERBOSE = True  # Whether to print verbose output
     
     # File paths
-    SYSTEM_PROMPT_PATH = "prompts/linking/system_prompt.txt"
-    USER_PROMPT_PATH = "prompts/linking/user_prompt.txt"
+    # SYSTEM_PROMPT_PATH = "prompts/linking/system_prompt.txt"
+    # USER_PROMPT_PATH = "prompts/linking/user_prompt.txt"
+    # File paths for reasoning-backed output
+    SYSTEM_PROMPT_PATH = "prompts/linking/system_reasoned_prompt.txt"
+    USER_PROMPT_PATH = "prompts/linking/user_reasoning_prompt.txt"
     
     # Directory structure
     INPUT_DIR = "input"
@@ -49,93 +54,8 @@ class Config:
     QUERIES_FILE = "queries.json"
     RAW_LINKING_OUTPUTS_FILE = "linking_results_raw.json"
     PROCESSED_LINKING_OUTPUTS_FILE = "linking_results.json"
+    STRUCTURED_LINKING_OUTPUTS_FILE = "linking_results_structured.json"
     METADATA_FILE = "linking_metadata.json"
-
-# =============================================================================
-# POST-PROCESSING FUNCTIONS
-# =============================================================================
-
-def extract_composition_from_output(raw_output: str) -> str:
-    """
-    Extract composition from model output.
-    
-    The model might return:
-    - Just the composition name (e.g., "Sr0.94Ti0.9Nb0.1O3")
-    - An index (e.g., "1" or "Composition 1")
-    - A sentence containing the composition
-    """
-    if not raw_output:
-        return ""
-    
-    # Clean up the output
-    output = raw_output.strip()
-    
-    # For now, return the cleaned output as is
-    # Could add more sophisticated parsing logic here in the future
-    return output
-
-def process_linking_results(input_file: str, output_file: str, config: Config) -> List[Dict[str, str]]:
-    """
-    Process raw linking results and extract query-composition pairs.
-    
-    Expected input format from linking_results_raw.json:
-    [
-      {"query_idx": 0, "chunk_idx": 0, "query": "<property query>", "raw_output": "<LLM reply>"},
-      ...
-    ]
-    
-    Output format:
-    [
-      {"query": "<property query>", "composition": "<extracted composition>"},
-      ...
-    ]
-    
-    Returns list of query-composition pairs, sorted by query.
-    """
-    if not os.path.isfile(input_file):
-        raise FileNotFoundError(f"Input file not found: {input_file}")
-    
-    if config.VERBOSE: print(f"🔄 Processing raw linking results from: {input_file}")
-    
-    with open(input_file, 'r', encoding='utf-8') as f:
-        raw_results = json.load(f)
-    
-    # Process results and extract compositions
-    processed_results = []
-    
-    for result in raw_results:
-        if "error" in result:
-            # Skip results with errors
-            continue
-            
-        query = result.get("query", "")
-        raw_output = result.get("raw_output", "").strip()
-        
-        if not raw_output:
-            continue
-        
-        # Extract composition from raw output
-        composition = extract_composition_from_output(raw_output)
-        
-        if composition:
-            processed_results.append({
-                "query": query,
-                "composition": composition
-            })
-    
-    # Sort by query to group similar queries together
-    processed_results.sort(key=lambda x: x["query"])
-    
-    # Save to output file
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(processed_results, f, indent=2, ensure_ascii=False)
-    
-    if config.VERBOSE: 
-        print(f"✅ Processed linking results saved to: {output_file}")
-        print(f"   Found {len(processed_results)} query-composition pairs")
-    
-    return processed_results
 
 # =============================================================================
 # PIPELINE FUNCTIONS
@@ -278,11 +198,11 @@ def run_pipeline(pii_id: str, config: Config = None) -> Dict[str, Any]:
     # Step 3: Run linking pipeline
     linking_results = run_linking_pipeline(chunks, compositions, queries_loaded, paths, config)
     
-    # Step 4: Process raw linking results
-    processed_results = process_linking_results(
-        paths['raw_linking_outputs_file'], 
-        paths['processed_linking_outputs_file'], 
-        config
+    # Step 4: Process raw linking results with enhanced function
+    processed_results = process_linking_results_enhanced(
+        input_file=paths['raw_linking_outputs_file'], 
+        output_file=paths['processed_linking_outputs_file'],
+        structured_output_file=os.path.join(paths['output_dir'], config.STRUCTURED_LINKING_OUTPUTS_FILE)
     )
     
     # Summary
@@ -296,7 +216,8 @@ def run_pipeline(pii_id: str, config: Config = None) -> Dict[str, Any]:
         'files_created': [
             paths['queries_file'],
             paths['raw_linking_outputs_file'],
-            paths['processed_linking_outputs_file']
+            paths['processed_linking_outputs_file'],
+            paths['processed_linking_outputs_file'].replace('.json', '_structured.json'),
         ],
         'status': 'completed'
     }
