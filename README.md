@@ -283,6 +283,14 @@ python link.py \
 
 ## 🎯 Usage Examples
 
+### Sample Data Available
+A complete sample research paper (`S0167273808006176`) has already been processed through both extraction and linking pipelines. You can examine the results in:
+- `output/S0167273808006176/` - Final compositions and linking results
+- `checkpoints/S0167273808006176/` - Intermediate processing files
+- `input/S0167273808006176/` - Source XML and table data
+
+This provides a working example of all pipeline outputs and can serve as a reference for expected results.
+
 ### Complete Pipeline Execution
 ```bash
 # Run full extraction + linking pipeline
