@@ -245,7 +245,7 @@ def main():
     parser.add_argument(
         "--max_tokens",
         type=int,
-        default=64,
+        default=256,
         help="Maximum tokens for LLM generation (default: 64)"
     )
     parser.add_argument(
