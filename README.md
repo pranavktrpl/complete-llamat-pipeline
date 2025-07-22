@@ -267,29 +267,6 @@ python link.py \
 - **linking_results_structured.json**: Detailed results with confidence and reasoning
 - **metadata files**: Optional processing metadata for analysis
 
-## 🔧 Updated Dependencies
-
-### Core Requirements
-- **PyTorch**: LLM model execution and GPU acceleration
-- **Transformers**: Hugging Face model loading and tokenization  
-- **spaCy**: Scientific text processing and sentence splitting
-- **BeautifulSoup4**: XML parsing and content extraction
-- **LXML**: High-performance XML processing
-- **Pydantic**: Type validation and data models
-
-### Machine Learning & NLP
-- **Gensim**: Word embeddings for table classification
-- **scikit-learn**: ML pipeline for table header classification
-- **NumPy**: Numerical computations for ML features
-- **SciPy**: Statistical analysis and confidence scoring
-
-### Scientific Computing
-- **Pandas**: Data manipulation and analysis
-- **Unidecode**: Unicode normalization
-
-### Text Processing
-- **TQDM**: Progress tracking for batch processing
-
 ## 🎯 Usage Examples
 
 ### Sample Data Available
@@ -483,7 +460,7 @@ The current pipeline represents a significant evolution from earlier approaches:
 ### In Development 🔄
 - 🔄 Batch processing optimizations for large datasets
 - 🔄 Increasing runtime speeds
-- 🔄 Advanced quality assessment metrics
+- 🔄 Advanced quality assessment and evaluation metrics
 - 🔄 Enhanced table structure recognition
 
 ### Planned Enhancements 📋
