@@ -19,6 +19,7 @@ from linking.linking_util import (
     link_compositions_to_properties
 )
 from linking.process_outputs import process_linking_results_enhanced
+from linking.disambiguate import process_structured_query_files
 
 # =============================================================================
 # CONFIGURATION
@@ -55,6 +56,7 @@ class Config:
     RAW_LINKING_OUTPUTS_FILE = "linking_results_raw.json"
     PROCESSED_LINKING_OUTPUTS_FILE = "linking_results.json"
     STRUCTURED_LINKING_OUTPUTS_FILE = "linking_results_structured.json"
+    FINAL_ANSWERS_FILE = "final_disambiguated_answers.json"
     METADATA_FILE = "linking_metadata.json"
 
 # =============================================================================
@@ -80,7 +82,9 @@ def setup_directories(pii_id: str, config: Config) -> Dict[str, str]:
         'compositions_file': os.path.join(paths['output_dir'], config.COMPOSITIONS_FILE),
         'queries_file': os.path.join(paths['checkpoint_dir'], config.QUERIES_FILE),
         'raw_linking_outputs_file': os.path.join(paths['checkpoint_dir'], config.RAW_LINKING_OUTPUTS_FILE),
-        'processed_linking_outputs_file': os.path.join(paths['output_dir'], config.PROCESSED_LINKING_OUTPUTS_FILE),
+        'processed_linking_outputs_file': os.path.join(paths['checkpoint_dir'], config.PROCESSED_LINKING_OUTPUTS_FILE),
+        'structured_linking_output_dir': os.path.join(paths['checkpoint_dir'], 'structured_linking_results'),
+        'final_answers_file': os.path.join(paths['output_dir'], config.FINAL_ANSWERS_FILE),
         'metadata_file': os.path.join(paths['checkpoint_dir'], config.METADATA_FILE),
     })
     
@@ -166,6 +170,31 @@ def run_linking_pipeline(chunks: List[str], compositions: List[str], queries: Li
     
     return linking_results
 
+def run_disambiguation(structured_output_dir: str, final_answers_file: str, config: Config) -> str:
+    """Run the disambiguation process on structured linking results."""
+    if config.VERBOSE: print(f"🎯 Starting disambiguation process")
+    
+    try:
+        # Process structured query files to get final answers
+        final_answers_path = process_structured_query_files(
+            structured_files_dir=structured_output_dir,
+            output_dir=os.path.dirname(final_answers_file)
+        )
+        
+        # Rename the output file to match our expected naming
+        expected_path = final_answers_file
+        if final_answers_path != expected_path:
+            os.rename(final_answers_path, expected_path)
+            final_answers_path = expected_path
+        
+        if config.VERBOSE: print(f"✅ Disambiguation completed: {final_answers_path}")
+        
+        return final_answers_path
+        
+    except Exception as e:
+        print(f"❌ Error during disambiguation: {e}")
+        raise
+
 def run_pipeline(pii_id: str, config: Config = None) -> Dict[str, Any]:
     """Run the complete linking pipeline."""
     if config is None:
@@ -189,6 +218,7 @@ def run_pipeline(pii_id: str, config: Config = None) -> Dict[str, Any]:
             'num_chunks': 0,
             'num_linking_results': 0,
             'num_processed_results': 0,
+            'num_final_answers': 0,
             'status': 'stopped_no_queries'
         }
     
@@ -200,10 +230,26 @@ def run_pipeline(pii_id: str, config: Config = None) -> Dict[str, Any]:
     
     # Step 4: Process raw linking results with enhanced function
     processed_results = process_linking_results_enhanced(
-        input_file=paths['raw_linking_outputs_file'], 
+        input_file=paths['raw_linking_outputs_file'],
         output_file=paths['processed_linking_outputs_file'],
-        structured_output_file=os.path.join(paths['output_dir'], config.STRUCTURED_LINKING_OUTPUTS_FILE)
+        structured_output_dir=paths['structured_linking_output_dir'],
     )
+    
+    # Step 5: Run disambiguation to get final answers
+    final_answers_path = run_disambiguation(
+        structured_output_dir=paths['structured_linking_output_dir'],
+        final_answers_file=paths['final_answers_file'],
+        config=config
+    )
+    
+    # Load final answers to count them
+    num_final_answers = 0
+    try:
+        with open(final_answers_path, 'r', encoding='utf-8') as f:
+            final_data = json.load(f)
+            num_final_answers = final_data.get('metadata', {}).get('total_queries', 0)
+    except Exception as e:
+        if config.VERBOSE: print(f"⚠️  Could not count final answers: {e}")
     
     # Summary
     summary = {
@@ -213,11 +259,13 @@ def run_pipeline(pii_id: str, config: Config = None) -> Dict[str, Any]:
         'num_chunks': len(chunks),
         'num_linking_results': len(linking_results),
         'num_processed_results': len(processed_results),
+        'num_final_answers': num_final_answers,
         'files_created': [
             paths['queries_file'],
             paths['raw_linking_outputs_file'],
             paths['processed_linking_outputs_file'],
-            paths['processed_linking_outputs_file'].replace('.json', '_structured.json'),
+            paths['structured_linking_output_dir'],
+            final_answers_path,
         ],
         'status': 'completed'
     }
@@ -226,7 +274,7 @@ def run_pipeline(pii_id: str, config: Config = None) -> Dict[str, Any]:
         summary['files_created'].append(paths['metadata_file'])
     
     if config.VERBOSE: print(f"🎉 Linking pipeline completed successfully!")
-    if config.VERBOSE: print(f"📊 Summary: {summary['num_linking_results']} raw results → {summary['num_processed_results']} processed query-composition pairs from {summary['num_queries']} queries")
+    if config.VERBOSE: print(f"📊 Summary: {summary['num_linking_results']} raw results → {summary['num_processed_results']} processed pairs → {summary['num_final_answers']} final answers from {summary['num_queries']} queries")
     
     return summary
 
@@ -246,7 +294,7 @@ def main():
         "--max_tokens",
         type=int,
         default=256,
-        help="Maximum tokens for LLM generation (default: 64)"
+        help="Maximum tokens for LLM generation (default: 256)"
     )
     parser.add_argument(
         "--temperature",
