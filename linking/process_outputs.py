@@ -45,19 +45,22 @@ def process_linking_results_enhanced(
         if not raw_output:
             continue
 
-        # Simple composition
-        composition = extract_composition_from_output(raw_output)
+        # Extract all compositions and structured results from the raw output
+        all_compositions = extract_all_compositions_from_output(raw_output)
+        all_structured_results = extract_all_linking_results(raw_output)
 
-        # Full structured result
-        full_result = extract_full_linking_result(raw_output)
-        full_result["query"] = query
-        full_result["query_idx"] = result.get("query_idx", -1)
-        full_result["chunk_idx"] = result.get("chunk_idx", -1)
+        # Process simple compositions
+        for composition in all_compositions:
+            if composition:
+                processed_results.append({"query": query, "composition": composition})
 
-        if composition:
-            processed_results.append({"query": query, "composition": composition})
-
-        structured_results.append(full_result)
+        # Process structured results
+        for i, full_result in enumerate(all_structured_results):
+            full_result["query"] = query
+            full_result["query_idx"] = result.get("query_idx", -1)
+            full_result["chunk_idx"] = result.get("chunk_idx", -1)
+            full_result["result_idx"] = i  # Index within the array for this query-chunk pair
+            structured_results.append(full_result)
 
     # --- Sort for determinism ------------------------------------------------
     processed_results.sort(key=lambda x: x["query"])
@@ -91,6 +94,76 @@ def process_linking_results_enhanced(
 
     return processed_results
 
+def extract_all_compositions_from_output(raw_output: str) -> List[str]:
+    """
+    Extract all compositions from structured JSON output.
+    """
+    if not raw_output:
+        return []
+    
+    try:
+        # Try to parse as JSON
+        output_data = json.loads(raw_output.strip())
+        
+        # Handle case where output is a list of objects
+        if isinstance(output_data, list):
+            compositions = []
+            for item in output_data:
+                if isinstance(item, dict):
+                    comp = item.get("composition", "").strip()
+                    if comp:
+                        compositions.append(comp)
+            return compositions
+        # Handle case where output is a single object
+        elif isinstance(output_data, dict):
+            comp = output_data.get("composition", "").strip()
+            return [comp] if comp else []
+        else:
+            return []
+    except json.JSONDecodeError:
+        # Fallback: use the original single extraction method
+        comp = extract_composition_from_output(raw_output)
+        return [comp] if comp else []
+
+def extract_all_linking_results(raw_output: str) -> List[Dict[str, str]]:
+    """
+    Extract all structured results from JSON output.
+    """
+    if not raw_output:
+        return []
+    
+    try:
+        output_data = json.loads(raw_output.strip())
+        
+        # Handle case where output is a list of objects
+        if isinstance(output_data, list):
+            results = []
+            for item in output_data:
+                if isinstance(item, dict):
+                    result = {
+                        "composition": item.get("composition", "").strip(),
+                        "confidence": item.get("confidence", "none"),
+                        "evidence": item.get("evidence", ""),
+                        "reasoning": item.get("reasoning", "")
+                    }
+                    results.append(result)
+            return results
+        # Handle case where output is a single object
+        elif isinstance(output_data, dict):
+            result = {
+                "composition": output_data.get("composition", "").strip(),
+                "confidence": output_data.get("confidence", "none"),
+                "evidence": output_data.get("evidence", ""),
+                "reasoning": output_data.get("reasoning", "")
+            }
+            return [result]
+        else:
+            return []
+    except json.JSONDecodeError:
+        # Fallback: use the original single extraction method
+        result = extract_full_linking_result(raw_output)
+        return [result] if result.get("composition") else []
+
 #New function for extracting the composition from the structured JSON output
 def extract_composition_from_output(raw_output: str) -> str:
     """
@@ -102,7 +175,16 @@ def extract_composition_from_output(raw_output: str) -> str:
     try:
         # Try to parse as JSON
         output_data = json.loads(raw_output.strip())
-        return output_data.get("composition", "").strip()
+        
+        # Handle case where output is a list of objects
+        if isinstance(output_data, list) and len(output_data) > 0:
+            # Return the composition from the first object (highest confidence)
+            return output_data[0].get("composition", "").strip()
+        # Handle case where output is a single object
+        elif isinstance(output_data, dict):
+            return output_data.get("composition", "").strip()
+        else:
+            return ""
     except json.JSONDecodeError:
         # Fallback: try to extract composition from unstructured output
         output = raw_output.strip()
@@ -124,12 +206,27 @@ def extract_full_linking_result(raw_output: str) -> Dict[str, str]:
     
     try:
         output_data = json.loads(raw_output.strip())
-        return {
-            "composition": output_data.get("composition", "").strip(),
-            "confidence": output_data.get("confidence", "none"),
-            "evidence": output_data.get("evidence", ""),
-            "reasoning": output_data.get("reasoning", "")
-        }
+        
+        # Handle case where output is a list of objects
+        if isinstance(output_data, list) and len(output_data) > 0:
+            # Use the first object (highest confidence)
+            first_result = output_data[0]
+            return {
+                "composition": first_result.get("composition", "").strip(),
+                "confidence": first_result.get("confidence", "none"),
+                "evidence": first_result.get("evidence", ""),
+                "reasoning": first_result.get("reasoning", "")
+            }
+        # Handle case where output is a single object
+        elif isinstance(output_data, dict):
+            return {
+                "composition": output_data.get("composition", "").strip(),
+                "confidence": output_data.get("confidence", "none"),
+                "evidence": output_data.get("evidence", ""),
+                "reasoning": output_data.get("reasoning", "")
+            }
+        else:
+            return {"composition": "", "confidence": "none", "evidence": "", "reasoning": ""}
     except json.JSONDecodeError:
         # Fallback for unstructured output
         return {
